@@ -4,3 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 For backend https://fakestoreapi.com/docs
 
+For styles [Tailwindcss](https://tailwindcss.com/)
+
+
+

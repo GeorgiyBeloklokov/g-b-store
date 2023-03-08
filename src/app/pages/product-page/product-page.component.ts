@@ -8,7 +8,7 @@ import { ProductsService } from 'src/app/services/product.service';
   styleUrls: ['./product-page.component.scss']
 })
 export class ProductPageComponent {
-  title = 'test-app-ng';
+  title = 'G&B Store';
   //products$: Observable<IProduct[]>;
   loading = false;
   term = '';
