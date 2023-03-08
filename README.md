@@ -1,2 +1,7 @@
-# g-b-store
-This store of products was created whit Angular 15 + fakeApi server
+### G&B Store online store
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.1.
+
+For backend https://fakestoreapi.com/docs
+
+The code is in a branch develop
